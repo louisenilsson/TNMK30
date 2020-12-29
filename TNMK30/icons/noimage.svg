@@ -1,0 +1,14 @@
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1056.000000, -210.000000)">
+            <g id="Group" transform="translate(1056.000000, 210.000000)">
+                <circle id="Oval" fill="#281E1E" cx="16" cy="16" r="16"></circle>
+                <g id="ic_close_black_24px-(1)" transform="translate(4.000000, 4.000000)">
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12"></polygon>
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
