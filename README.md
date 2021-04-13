@@ -1,5 +1,4 @@
-# TNMK30
-The course TNMK30 - Electronic publishing at Linköping University
+# TNMK30 - Electronic publishing at Linköping University
 
 Made by David Karlsson, Fanny Skotte, Louise Nilsson, Malin Rahm and Ulf Wickart.
 
