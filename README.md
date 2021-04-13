@@ -1,6 +1,6 @@
-# TNMK30 - Electronic publishing at Linköping University
+# TNMK30 - Electronic publishing 
 
-Made by David Karlsson, Fanny Skotte, Louise Nilsson, Malin Rahm and Ulf Wickart.
+Made by David Karlsson, Fanny Skotte, Louise Nilsson, Malin Rahm and Ulf Wickart at Linköping University
 
 
 ---PROJECT TASK---
