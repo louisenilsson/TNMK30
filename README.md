@@ -1,5 +1,5 @@
 # TNMK30 - Electronic publishing 
-
+*A course during first year of Master of Science in Media Technology and Engineering.*
 Made by David Karlsson, Fanny Skotte, Louise Nilsson, Malin Rahm and Ulf Wickart at Linköping University
 
 ## PROJECT TASK
